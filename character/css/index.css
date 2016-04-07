@@ -1,0 +1,40 @@
+header{
+ background-image: linear-gradient(to right, rgba(94,164,224,0.8), rgba(37,183,194,0.9)), url(../img/harvey3.jpg);
+ color: White;
+ background-size: cover;
+ min-height: 200px;
+ max-height: 200px;
+ background-position: left;
+ padding-top: 400px;
+ padding-left: 200px;
+ margin: 0px;
+ 
+}
+header h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 200%;    
+    font-weight: 900;
+    }
+
+body{
+    background-color: linear-gradient(rgb(184,202,206), rgba(0,0,0,0.6));
+    font-size: 16px;
+    color: #231B18;
+    padding: 1em;
+    font-family: 'Helvetica Nueu', Arial, Helvetica, sans-serif;
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+body p{
+    padding-left: 1em;
+    line-height: 1.15;
+}
+
+body img{
+    max-height: 200px;
+    padding-left: 50px;
+    
+}
+
